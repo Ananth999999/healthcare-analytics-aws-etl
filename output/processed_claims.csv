@@ -1,0 +1,4 @@
+claim_id,patient_id,procedure_code,diagnosis_code,claim_amount,admission_date,claim_amount_usd
+C001,P001,PROC_A,DIA_01,1200.5,2025-01-10,1200.5
+C002,P002,PROC_B,DIA_02,850.0,2025-01-11,850.0
+C003,P003,PROC_A,DIA_03,430.75,2025-01-12,430.75

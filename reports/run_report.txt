@@ -1,0 +1,2 @@
+Records after processing: 3
+Total claim amount: 2481.25

@@ -1,0 +1,18 @@
+{
+  "required_columns": [
+    "claim_id",
+    "patient_id",
+    "procedure_code",
+    "diagnosis_code",
+    "claim_amount",
+    "admission_date"
+  ],
+  "column_types": {
+    "claim_id": "str",
+    "patient_id": "str",
+    "procedure_code": "str",
+    "diagnosis_code": "str",
+    "claim_amount": "float",
+    "admission_date": "str"
+  }
+}
